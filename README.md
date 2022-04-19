@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Michael Treat! I recently left Microsoft after three years working on the Internet Explorer and Edge Browsers! I got to work on areas such as Network, Navigation, Downloads, Security Zones, Infastructure, Layout, and DOM Tree Rendering! It was an amazing immersive experience for me and I learned so much from it.
+My name is Michael Treat! I spent the last three years at Microsoft working on the Internet Explorer and Edge Browsers! I got to work on areas such as Network, Navigation, Downloads, Security Zones, Infastructure, Layout, and DOM Tree Rendering! It was an amazing, immersive experience and I learned so much from it.
 
-I'm currently looking for a role as a software engineer working on web applications. 
+I'm currently looking for a new role as a Software Engineer. 
 
 
 
