@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Michael Treat! I recently left Microsoft after three years working on the Internet Explorer and Edge Browsers! I got to work on areas such as Network, Navigation, Downloads, Security Zones, Infastructure, Layout, and DOM Tree Rendering! It was an amazing immersive experience for me and I learned so much from it.
+
+I'm currently looking for a role as a software engineer working on web applications. 
+
+
+
 <!--
 **michaeltreat/michaeltreat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
