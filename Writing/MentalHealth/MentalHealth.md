@@ -1,4 +1,4 @@
-#### Mental Illness in the Workplace:
+#### Mental Health
 
 " ...But for most of my life up to that point I had suffered from unresolved major childhood trauma and instability. This developed a major conflict within myself of feeling angry at how I was being abused [as a child] while also believing that it was my fault, each iteration feeding hate towards others and hate towards myself, growing into a powerfully negative corrosive cycle within me. It made me hide my feelings and shut other people out, and kept me from being vulnerable and intimately connected with others.
 
@@ -14,6 +14,4 @@ And it made it difficult for _me_ to ask for help, to hear critical feedback, to
 
 I experienced that many people do not know how to engage with a coworker who is experiencing a mental crisis. Many are afraid to acknowledge it or ask about it out of fear of being insensitive, or because they themselves are uncomfortable with the energy. Some people are worried about how the team should talk about mental illness and how it might affect the teams dynamic. But I would argue that the real team dynamic is emergent from the individual relationships that make up that team. 
 
-In my experience I felt completely alone and avoided, which was a re-living of the exact traumas I was suffering from. I fought hard in my job to keep going and keep showing up, even though I was horribly under-qualified and cognitively impaired. The atmosphere made me feel unwelcome and afraid to ask others for help, and that was  something I wasn't able to overcome by myself. In all that time I only had 1 colleague reach out to me directly about my state of being, and she said, "Sorry you're having a hard time, mental illness can be so tough." I was extremely grateful to be noticed and acknowledged. 
-
-So, please. Be brave, reach out, extend empathy, offer support, let them cry, let them be weird without judging or reacting. Include them, bring them lunch, respect their boundaries, and speak directly. You have no clue what people are going through and how valuable simple supportive gestures are in changing the course of someone's health, recovery, and wellbeing. "
+In my experience I felt completely alone and avoided, which was a re-living of the exact traumas I was suffering from. I fought hard in my job to keep going and keep showing up, even though I was horribly under-qualified and cognitively impaired. The atmosphere made me feel unwelcome and afraid to ask others for help, and that was something I wasn't able to overcome by myself." 
