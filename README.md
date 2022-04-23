@@ -9,7 +9,7 @@ My name is Mike. I'm a software engineer with experience working with the JavaSc
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flatt-square&logo=gmail&logoColor=white)](mailto:michael.treat.dev@gmail.com)
 [![Dev Badge](https://img.shields.io/badge/-Dev-000000?style=flat-square&logo=Dev.to&logoColor=white)](https://dev.to/michaeltreat)
 
-This page is here to help you get to know who I am and what I value and to share some of my expereiences, writings, and projects.
+This page is here to help you get to know who I am and what I value, and to share some of my expereiences, writings, and projects.
 
 
 ### 🏫 School and Work ⚒️ 
