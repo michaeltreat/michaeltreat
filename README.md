@@ -9,6 +9,9 @@ My name is Mike. I'm a software engineer with experience working with the JavaSc
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flatt-square&logo=gmail&logoColor=white)](mailto:michael.treat.dev@gmail.com)
 [![Dev Badge](https://img.shields.io/badge/-Dev-000000?style=flat-square&logo=Dev.to&logoColor=white)](https://dev.to/michaeltreat)
 
+This page is here to help you get to know who I am and what I value and to share some of my expereiences, writings, and projects.
+
+
 ### 🏫 School and Work ⚒️ 
 I attended Code Fellows Coding Bootcamp in 2017 where I learned Web Development using the MEARN stack, and where I worked at as a Teaching assistant there for over a year. 
 
@@ -19,7 +22,7 @@ _**As much as I love diversity and inclusion, I find it very difficult to includ
 
 "In 5th grade I was voted recess mediator by my classmates. My role was to be a student advocate and to assist in resolving conflict on the playground. So, technically I'm completely qualified to carry the burdens of responsibility😅. Because of this experience I believe I started to learn how to be supportive and empathetic towards others very early on in my life, and it's one of the reasons why I'm so passionate about diversity and inclusion. "
 
-[Mental Illness in the Workplace](https://github.com/michaeltreat/michaeltreat/blob/main/MentalHealth_InTheWorkplace.md)
+[Mental Health ](https://github.com/michaeltreat/michaeltreat/blob/main/MentalHealth.md)
 
 
 ## Who I am:
