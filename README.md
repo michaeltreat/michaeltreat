@@ -15,7 +15,7 @@ This page is here to help you get to know who I am and what I value, and to shar
 ### 🏫 School and Work ⚒️ 
 I attended Code Fellows Coding Bootcamp in 2017 where I learned Web Development using the MEARN stack, and where I worked at as a Teaching assistant there for over a year. 
 
-I joined the Microsoft LEAP program's 10th Cohort in July 2018, and at the end of the 16 week program I was offered a full time position with the team I apprenticed on. I and began working for Microsoft in January 2019. I serviced security and non-security bugs and completed features in areas such as Network, Navigation, Downloads, Security Zones, Infrastructure, Layout, and DOM Tree Rendering.
+I joined the Microsoft LEAP program's 10th Cohort in July 2018, and at the end of the 16 week program I was offered a full time position with the team I apprenticed on. I began working for Microsoft full-time in January 2019. I serviced security and non-security bugs and completed features in areas such as Network, Navigation, Downloads, Security Zones, Infrastructure, Layout, and DOM Tree Rendering.
 
 ## Who Am I?
 _**As much as I love diversity and inclusion, I find it very difficult to include myself sometimes.**_ 
